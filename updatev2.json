@@ -1,0 +1,9 @@
+{
+  "schema": 2,
+  "sources": [
+    {
+      "repo": "x1B1C1/PCL_Plus_OTA",
+      "tier": "official"
+    }
+  ]
+}
